@@ -1,0 +1,5 @@
+transaction\事务
+atomicity\原子性
+consistency\一致性
+isolation\隔离性
+durability\持久性

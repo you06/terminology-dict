@@ -1,0 +1,20 @@
+{
+  "name": "terminology-dict",
+  "version": "1.0.0",
+  "description": "A static terminology dictionary.",
+  "main": "index.js",
+  "repository": "https://github.com/you06/terminology-dict",
+  "author": "you06",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "serialize-javascript": "^5.0.1"
+  }
+}
